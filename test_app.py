@@ -1,4 +1,4 @@
-from app import aboutus
+import app
 
 def test_aboutus():
     assert True
